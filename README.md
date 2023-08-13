@@ -108,6 +108,31 @@ Clustered OS involves merging multiple systems to perform the same task, enhanci
 ### Embedded OS
 Embedded OS provides fixed functionality for devices like ACs and washing machines, enabling specific tasks.
 
+### Life Cycle Of OS
+
+![Screenshot (26)](https://github.com/aasthad27/Operating-system/assets/89932857/c0d8eb1f-51b9-46a1-8f1a-68e14b6edf73)
+
+MY Reference diagram, 
+
+you can go through :
+
+![Screenshot (27)](https://github.com/aasthad27/Operating-system/assets/89932857/4ae7b0da-e8d1-491f-be83-457f68620bc5)
+
+### Important Linux Commands 
+
+![link](https://www.digitalocean.com/community/tutorials/linux-commands)
+
+### System calls 
+
+There are Two Modes
+User Mode 
+Kernal Mode
+
+In computing, a system call is a programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. A system call is a way for programs to interact with the operating system. A computer program makes a system call when it makes a request to the operating system’s kernel. System call provides the services of the operating system to the user programs via Application Program Interface(API). It provides an interface between a process and an operating system to allow user-level processes to request services of the operating system. System calls are the only entry points into the kernel system. All programs needing resources must use system calls.
+
+A system call is initiated by the program executing a specific instruction, which triggers a switch to kernel mode, allowing the program to request a service from the OS. The OS then handles the request, performs the necessary operations, and returns the result back to the program.
+
+
 
 
 
