@@ -27,7 +27,31 @@ An operating system serves as an interface between hardware and users. It facili
 - **Memory Management (RAM)**
 - **Security and Privacy**
 
-  ## Types of Operating Systems (Continued)
+  ## Types of Operating Systems 
+### Batch OS
+Batch OS processes jobs in the main memory sequentially. While it enhances throughput, it lacks interactivity and debugging can be challenging.
+
+![Batch OS](https://github.com/aasthad27/Operating-system/assets/89932857/9f0b919a-7908-43c5-9309-c4654638683d)
+
+**Advantages:**
+- Efficient for managing large workloads.
+- Supports multiple users.
+
+**Disadvantages:**
+- Requires skilled operators.
+- Debugging is complex.
+
+### Multiprogramming OS
+This type allows multiple programs to be present in memory simultaneously, enhancing throughput and response time.
+
+![Multiprogramming OS](https://github.com/aasthad27/Operating-system/assets/89932857/f1112e94-dea1-45d7-980a-856a015becc0)
+
+**Advantages:**
+- Increased throughput.
+- Reduced response time.
+
+**Disadvantages:**
+- Limited user interaction with resources.
 
 ### Multiprocessing OS
 Multiprocessing OS utilizes multiple CPUs for resource execution, increasing throughput and providing redundancy.
