@@ -45,6 +45,7 @@ What to expect
    
     seq, random, linked
 
+![Screenshot (19)](https://github.com/aasthad27/Operating-system/assets/89932857/f7280092-180f-4d7b-84d3-10a73eaeb1c1)
 
 ### Types of Operating Systems
 
