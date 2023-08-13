@@ -120,7 +120,7 @@ you can go through :
 
 ### Important Linux Commands 
 
-![link](https://www.digitalocean.com/community/tutorials/linux-commands)
+[](https://www.digitalocean.com/community/tutorials/linux-commands)
 
 ### System calls 
 
